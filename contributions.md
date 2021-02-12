@@ -10,11 +10,11 @@
 
 * Thread leak
     * [Akka cluster was not closed.](https://github.com/akka/akka-persistence-cassandra/pull/380)
-    * [A Kafka producer was not terminated.]()
+    * [A Kafka producer was not terminated.](https://github.com/cakesolutions/scala-kafka-client/pull/137)
 * Build failed
     * [Oracle JDK license was changed.](https://github.com/azakordonets/fabricator/pull/34)
 * Others 
-  * [One of Kafka's classes didn't initialize the parent class.](https://github.com/apache/kafka/pull/4859)
+    * [One of Kafka's classes didn't initialize the parent class.](https://github.com/apache/kafka/pull/4859)
   
 ## Testing
 
