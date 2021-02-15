@@ -11,7 +11,7 @@
 
 ### Open Source Contributions
 
-Please check out this [markdown](contributions.md).
+Please check out this [markdown](contributions.md#open-source-contributions).
 
 
 <!--
