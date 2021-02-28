@@ -8,7 +8,7 @@
 
 ## Fix issues
 
-* Thread leak
+* Resource leak
     * [Akka cluster was not closed.](https://github.com/akka/akka-persistence-cassandra/pull/380)
     * [A Kafka producer was not terminated.](https://github.com/cakesolutions/scala-kafka-client/pull/137)
 * Build failed
@@ -30,7 +30,7 @@
 * [Fixed hyperlinks couldn't display correctly at source code.](https://github.com/lomigmegard/akka-http-cors/pull/15)
 * [Fixed broken links which were caused by jekyll.](https://github.com/scala/docs.scala-lang/pull/851)
     
-## Open issues
+## Open issues or propose features
 
 * Suggested [jabba](https://github.com/shyiko/jabba) to [add BellSoft's Liberica JDK](https://github.com/shyiko/jabba/issues/433) since they're also a TCK certified OpenJDK.
-* Suggested [kafka-visualizer](https://github.com/manasb-uoe/kafka-visualizer) to package their code in Docker since not everyone has the JDK 9 locally.
+* Suggested [kafka-visualizer](https://github.com/manasb-uoe/kafka-visualizer) to [package their code in Docker and deliver Docker image to Docker hub](https://github.com/manasb-uoe/kafka-visualizer/issues/3) since not everyone has the JDK 9 locally.
