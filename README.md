@@ -13,6 +13,9 @@
 
 Please check out this [markdown](contributions.md#open-source-contributions).
 
+### Talks
+
+Please check out this [markdown](talks.md).
 
 <!--
 **jiminhsieh/jiminhsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
