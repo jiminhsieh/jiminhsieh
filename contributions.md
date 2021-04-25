@@ -3,7 +3,7 @@
 [All of my open source contributions](https://git.io/JtAhh). Below are some PRs which I categorize by a daily job of a software engineer.  
 
 ## Add features
-* [Added new APIs to Eclipse Collections](https://github.com/eclipse/eclipse-collections/pull/754) which is formerly Goldman Sachs Collections.
+* [Added new APIs to Eclipse Collections](https://github.com/eclipse/eclipse-collections/pull/754) [which is formerly Goldman Sachs Collections](https://github.com/goldmansachs/gs-collections#gs-collections-is-now-eclipse-collections).
 * [Added a command-line option for sbt-jmh to export JFR report.](https://github.com/ktoso/sbt-jmh/pull/120)
 
 ## Fix issues
