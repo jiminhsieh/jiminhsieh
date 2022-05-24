@@ -9,6 +9,10 @@
     !!! 🚧 Under Construction 🚧 !!!
 </p>
 
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiminhsieh)
+
 ### Open Source Contributions
 
 Please check out this [markdown](contributions.md#open-source-contributions).
