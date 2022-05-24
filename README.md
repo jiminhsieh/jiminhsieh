@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋 ! I'm Jimin Hsieh</h3>
+<h3 align="center">Hi there 👋 ! This is Jimin Hsieh</h3>
 <p align="center">
   <a href="https://jiminhsieh.github.io">Website</a> •
   <a href="https://www.linkedin.com/in/jiminhsieh">LinkedIn</a> •
