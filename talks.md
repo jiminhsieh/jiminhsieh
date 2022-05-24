@@ -1,5 +1,7 @@
 # Talks
 
+* 2021
+    * [Things I Wish I'd Known About Elasticsearch When I Started](https://docs.google.com/presentation/d/1Er6ehhKafMlS30_BeEhzz6Z2YeMErm7T8ure139OL2c/edit?usp=sharing) (attendee: 48) at [TWJUG-Lite](https://twjug.kktix.cc/events/twjug-lite-16)
 * 2020
     * [Short and remote talk of Ktor client post](https://github.com/jiminhsieh/ktor-client-twjug-lite) (attendee: 21) at [TWJUG-Lite](https://twjug.kktix.cc/events/twjug-lite-13)
 * 2019
