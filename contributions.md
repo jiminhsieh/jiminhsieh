@@ -1,6 +1,6 @@
 # Open Source Contributions
 
-[All of my open source contributions](https://git.io/JtAhh). Below are some PRs which I categorize by a daily job of a software engineer.  
+[All of my open source contributions](https://bit.ly/jiminhsieh-opensource-contributions). Below are some PRs which I categorize by a daily job of a software engineer.  
 
 ## Add features
 * [Added new APIs to Eclipse Collections](https://github.com/eclipse/eclipse-collections/pull/754) [which is formerly Goldman Sachs Collections](https://github.com/goldmansachs/gs-collections#gs-collections-is-now-eclipse-collections).
