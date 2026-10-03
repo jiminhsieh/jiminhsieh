@@ -1,9 +1,13 @@
-<h1 align="center">Hi there 👋 ! This is Jimin Hsieh</h1>
+<h1 align="center">Hi there 👋, I'm Jimin Hsieh</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/jiminhsieh">LinkedIn</a> •
   <a href="https://twitter.com/JiminHsieh">Twitter</a> • 
   <a href="https://jiminhsieh.github.io">Website</a>
 </p>
+
+I'm a software engineer with 10+ years of experience in data engineering and backend systems. I work primarily with Java, Scala, Python, Spark, Databricks, Kubernetes, Airflow, and cloud infrastructure, with a focus on building scalable, performant, and secure data platforms and backend systems.
+
+I also enjoy contributing to open-source projects and sharing what I've learned through technical talks.
 
 # GitHub Stats
 
@@ -11,40 +15,40 @@
 
 # Open Source Contributions
 
-[All of my open source contributions](https://github.com/search?q=author%3Ajiminhsieh+-user%3Ajiminhsieh+is%3Amerged&type=pullrequests). Below are some PRs which I categorize by a daily job of a software engineer.
+[An overview of my open-source contributions](https://github.com/search?q=author%3Ajiminhsieh+-user%3Ajiminhsieh+is%3Amerged&type=pullrequests). Below are some selected pull requests, categorized by typical software engineering activities.
 
-## Add features
-* [Added new APIs to Eclipse Collections](https://github.com/eclipse/eclipse-collections/pull/754) [which is formerly Goldman Sachs Collections](https://github.com/goldmansachs/gs-collections#gs-collections-is-now-eclipse-collections).
-* [Added a command-line option for sbt-jmh to export JFR report.](https://github.com/ktoso/sbt-jmh/pull/120)
+## Feature Development
+* [Added new APIs to Eclipse Collections](https://github.com/eclipse/eclipse-collections/pull/754), [formerly known as Goldman Sachs Collections](https://github.com/goldmansachs/gs-collections#gs-collections-is-now-eclipse-collections).
+* [Added a command-line option to sbt-jmh for exporting JFR reports](https://github.com/ktoso/sbt-jmh/pull/120).
 
-## Fix issues
+## Bug Fixes
 
-* Resource leak
-    * [Akka cluster was not closed.](https://github.com/akka/akka-persistence-cassandra/pull/380)
-    * [A Kafka producer was not terminated.](https://github.com/cakesolutions/scala-kafka-client/pull/137)
-* Build failed
-    * [Oracle JDK license was changed.](https://github.com/azakordonets/fabricator/pull/34)
+* Resource leaks
+    * [Fixed an Akka Cluster resource leak caused by the cluster not being properly terminated during testing](https://github.com/akka/akka-persistence-cassandra/pull/380).
+    * [Fixed a resource leak caused by a Kafka producer not being properly closed](https://github.com/cakesolutions/scala-kafka-client/pull/137).
+* Build failures
+    * [Fixed a build failure caused by changes to the Oracle JDK licensing](https://github.com/azakordonets/fabricator/pull/34).
 * Others
-    * [One of Kafka's classes didn't initialize the parent class.](https://github.com/apache/kafka/pull/4859)
+    * [Fixed a Kafka class that failed to initialize its parent class correctly](https://github.com/apache/kafka/pull/4859).
 
 ## Testing
 
-* [Increased testing coverage and fixed build failed.](https://github.com/azhur/kafka-serde-scala/pull/104)
+* [Increased test coverage and fixed a build failure](https://github.com/azhur/kafka-serde-scala/pull/104).
 
-## Refactor
+## Refactoring
 
-* [Changed to lambda expressions for Java 8 SAM types](https://github.com/paypal/squbs/pull/660) at [payal squbs](https://github.com/paypal/squbs).
+* [Refactored Java 8 SAM implementations to use lambda expressions](https://github.com/paypal/squbs/pull/660) in [PayPal's squbs project](https://github.com/paypal/squbs).
 
 ## Documentation
 
-* [Improved docs for other learners.](https://github.com/weihsiu/reactive-streams/pull/2)
-* [Fixed hyperlinks couldn't display correctly at source code.](https://github.com/lomigmegard/akka-http-cors/pull/15)
-* [Fixed broken links which were caused by jekyll.](https://github.com/scala/docs.scala-lang/pull/851)
+* [Improved documentation to make the material easier for learners to follow](https://github.com/weihsiu/reactive-streams/pull/2).
+* [Fixed hyperlinks that were not rendered correctly in the source documentation](https://github.com/lomigmegard/akka-http-cors/pull/15).
+* [Fixed broken links caused by Jekyll](https://github.com/scala/docs.scala-lang/pull/851).
 
-## Open issues or propose features
+## Feature Proposals & Issue Reports
 
-* Suggested [jabba](https://github.com/shyiko/jabba) to [add BellSoft's Liberica JDK](https://github.com/shyiko/jabba/issues/433) since they're also a TCK certified OpenJDK.
-* Suggested [kafka-visualizer](https://github.com/manasb-uoe/kafka-visualizer) to [package their code in Docker and deliver Docker image to Docker hub](https://github.com/manasb-uoe/kafka-visualizer/issues/3) since not everyone has the JDK 9 locally.
+* Proposed [adding BellSoft Liberica JDK support](https://github.com/shyiko/jabba/issues/433) to [Jabba](https://github.com/shyiko/jabba) because it is a TCK-certified OpenJDK distribution.
+* Proposed [Docker packaging](https://github.com/manasb-uoe/kafka-visualizer/issues/3) for [kafka-visualizer](https://github.com/manasb-uoe/kafka-visualizer) to avoid requiring users to install JDK 9 locally.
 
 # Talks
 
