@@ -55,7 +55,7 @@
 * 2019
     * [How to contribute to (Scala) open source & my experience](https://github.com/ScalaTaiwan/ScalaTaiwan/tree/master/2019/2019-11-05-How_to_contribute_to_(Scala)_open_source_&_my_experience) (attendee: 30) at [Scala Taiwan](https://www.meetup.com/Scala-Taiwan-Meetup/events/265680460/)
 * 2017
-    * [Introduction to Scala](https://github.com/jiminhsieh/introduction-to-scala/tree/2017) (attendee:~50) at [ITE Tech. Inc.](http://www.ite.com.tw/en/about/ite)
+    * [Introduction to Scala](https://github.com/jiminhsieh/introduction-to-scala/tree/2017) (attendee:~50) at [ITE Tech. Inc.](https://www.ite.com.tw/en)
 * 2016
     * [Introduction to Scala](https://github.com/jiminhsieh/introduction-to-scala/tree/2016) (attendee: 30) at [JCConf Taiwan](https://jcconf.tw/2016/speaker/jimin.html)
     * [Scala & Spark in Performance Aspect](https://www.slideshare.net/JiminHsieh/scala-spark-in-performance-aspect) (attendee: 36) at [Scala Taiwan](https://www.meetup.com/Scala-Taiwan-Meetup/events/231358857/)
