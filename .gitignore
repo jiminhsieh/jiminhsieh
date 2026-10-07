@@ -1,0 +1,7 @@
+# Editor/IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+__MACOSX/
