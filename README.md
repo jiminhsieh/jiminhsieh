@@ -15,7 +15,7 @@ I also enjoy contributing to open-source projects and sharing what I've learned 
 
 # Open Source Contributions
 
-[An overview of my open-source contributions](https://github.com/search?q=author%3Ajiminhsieh+-user%3Ajiminhsieh+is%3Amerged&type=pullrequests). Below are some selected pull requests, categorized by typical software engineering activities.
+[An overview of my open-source contributions](https://github.com/search?q=author%3Ajiminhsieh+author%3Ajiminhsieh-tw+-user%3Ajiminhsieh+is%3Amerged&type=pullrequests). Below are some selected pull requests, categorized by typical software engineering activities.
 
 ## Feature Development
 * [Added new APIs to Eclipse Collections](https://github.com/eclipse/eclipse-collections/pull/754), [formerly known as Goldman Sachs Collections](https://github.com/goldmansachs/gs-collections#gs-collections-is-now-eclipse-collections).
